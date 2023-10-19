@@ -2,8 +2,8 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('Images/taxi.png') center/cover;
-            background: #333
+            background: url('static/img/taxi.png') center/cover;
+
 
         }
         .overlay{
